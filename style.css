@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 96%;
+    margin: 0 auto;
+}
+body{
+    background-image:url(./1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: blueviolet;
+    padding: 20px;
+}
+header a{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+iframe{
+    margin-top: 70px;
+}
+.banner main{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+btn-1{
+    color: brown;
+}
